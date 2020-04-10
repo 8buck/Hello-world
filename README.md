@@ -1,3 +1,3 @@
 # Hello-world
 Training Repo
-My blog is cla8blog!
+My blog is clan8blog!
